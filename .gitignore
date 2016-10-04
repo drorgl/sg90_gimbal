@@ -1,0 +1,10 @@
+
+/.vs
+/Release
+/Debug
+/__vm
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.*
+
